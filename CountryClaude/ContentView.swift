@@ -188,7 +188,7 @@ class CountriesViewModel {
                for country in countries {
                    let iso2Code = country.iso2Code
                     group.addTask {
-                           let (population, gdp ) = await (self.fetchPopulation(for: iso2Code), self.fetchGDP(for: iso2Code))
+                        let (population, gdp ) = await (self.fetchPopulation(for: iso2Code), self.fetchGDP(for: iso2Code))
                            return CountryDetail(
                                iso2Code: iso2Code,
                                population: population,
