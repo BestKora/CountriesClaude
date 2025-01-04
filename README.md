@@ -5,3 +5,14 @@
  and the size of GDP (gross domestic product) gdp is reported:
 
  ![til](https://github.com/BestKora/CountriesClaude/blob/0a4c1aa9cd81dc7c33e385ec43844505feb060e4/CountriesA.png)
+
+ With Claude 3.5 Sonnet, we get a great iOS app on with a Data Model to decode JSON data, with a CountriesViewModel that fetches all the necessary information from the World Bank server, converts the JSON data into Model data, and provides Views to display on the user's screen. We don't specify a single link to the World Bank sites, or a single hint about the data structure, and yet we get a fully functional iOS app. 
+ 
+ We also used ChatGPT 4.o1.mini , ChatGPT 4.o-preview , and Gemini 2.0 Flash
+
+## Technologies
+
+* MVVM design pattern 
+* SwiftUI
+* GCD
+* async / await
