@@ -4,4 +4,4 @@
  and for each country its name and flag. If you select a country, then additional information about the population 
  and the size of GDP (gross domestic product) gdp is reported:
 
- ![til](https://github.com/BestKora/PhotomaniaCursor/blob/a63e95f853f79cbcf5d24af5b14554a3e6d711c6/PhotomaniaCursor/PhotomaniaCursorDemo.gif)
+ ![til](https://github.com/BestKora/CountriesClaude/blob/0a4c1aa9cd81dc7c33e385ec43844505feb060e4/CountriesA.png)
