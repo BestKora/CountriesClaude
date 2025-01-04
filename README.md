@@ -28,5 +28,5 @@
 
 [But there is async / await version](https://github.com/BestKora/CountriesClaudeAsync)
 
-And Swift 6 strict concurrency
+[And Swift 6 strict concurrency](https://github.com/BestKora/CountriesClaudeSwift6StrictConcurrency)
 
