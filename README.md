@@ -26,7 +26,7 @@
 
 ## This is GCD version
 
-But ther is async / await version
+But there is async / await version  ![async / await version](https://github.com/BestKora/CountriesClaudeAsync/blob/main/README.md)
 
 And Swift 6 strict concurrency
 
