@@ -23,3 +23,10 @@
 * GCD
 * async / await
 * Swift 6 strict concurrency
+
+## This is GCD version
+
+But ther is async / await version
+
+And Swift 6 strict concurrency
+
